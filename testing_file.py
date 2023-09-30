@@ -15,8 +15,8 @@ def read_tokens():
         return {'access': access.strip('\n'), 'refresh': refresh.strip('\n')}
 
 
-test = StockX('ZoUZKVD8W42uY5wi5kzuP5AuNfAi5gKX758JIA2Y', 'ECb52FQVCrdpJwc1kWd1R8pV7HJUHyfk',
-              'Vl4LC0EEoLvzqOXFaKFOvOqv-DUpMVB5K-wtLBKiUBYjMCdfmxMXtrPcaxhNqPym')
+test = StockX('taken out', 'taken out',
+              'taken out')
 
 # test.auth()
 # save_tokens(test.access_token, test.refresh_token)
