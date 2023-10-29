@@ -1,2 +1,4 @@
+A Python wrapper for the StockX developer API
+
 Start by creating a StockX Object:
 - StockX(apikey, clientid, clientsecret)
